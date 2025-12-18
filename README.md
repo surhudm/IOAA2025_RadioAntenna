@@ -89,12 +89,12 @@ pip install -r requirements.txt
 
 # Documentation
 
-[Group-Write-Up.pdf](https://ioaa2025.in/wp-content/uploads/2025/09/Gropu-Write-Up.pdf)
-[Group-Design-Horn-Antenna.pdf](https://ioaa2025.in/wp-content/uploads/2025/09/Group-Design-Horn-Antenna.pdf)
-[Group-Design-Antenna-Stand.pdf](https://ioaa2025.in/wp-content/uploads/2025/09/Group-Design-Horn-Antenna-Stand.pdf)
-[Group-Info-Electronics.pdf](https://ioaa2025.in/wp-content/uploads/2025/09/Group-Info-Electronics.pdf)
+- [Group-Write-Up.pdf](https://ioaa2025.in/wp-content/uploads/2025/09/Gropu-Write-Up.pdf)
+- [Group-Design-Horn-Antenna.pdf](https://ioaa2025.in/wp-content/uploads/2025/09/Group-Design-Horn-Antenna.pdf)
+- [Group-Design-Antenna-Stand.pdf](https://ioaa2025.in/wp-content/uploads/2025/09/Group-Design-Horn-Antenna-Stand.pdf)
+- [Group-Info-Electronics.pdf](https://ioaa2025.in/wp-content/uploads/2025/09/Group-Info-Electronics.pdf)
 
+- [Group-Questions.pdf](https://ioaa2025.in/wp-content/uploads/2025/09/Group-Questions.pdf)
+- [Group-Summary-Answersheet.pdf](https://ioaa2025.in/wp-content/uploads/2025/09/Group-Summary-Answersheet.pdf)
+- [Group-Solutions.pdf](https://ioaa2025.in/wp-content/uploads/2025/09/Group-Solutions.pdf)
 
-[Group-Questions.pdf](https://ioaa2025.in/wp-content/uploads/2025/09/Group-Questions.pdf)
-[Group-Solutions.pdf](https://ioaa2025.in/wp-content/uploads/2025/09/Group-Solutions.pdf)
-[Group-Summary-Answersheet.pdf](https://ioaa2025.in/wp-content/uploads/2025/09/Group-Summary-Answersheet.pdf)
