@@ -8,6 +8,9 @@ Based on original code by: Ashish Mhaske - IUCAA, Pune
 With guidance from:
     Prof. Avinash Deshpande, RRI, Bengaluru and Prof. Surhud More, IUCAA, Pune
 
+Group task problem design:
+    Prof. Avinash Deshpande, RRI, Bengaluru and Prof. Dharam Vir Lal, NCRA, Pune
+
 With thanks to: IOAA Academic Committee
 
 # Installation
