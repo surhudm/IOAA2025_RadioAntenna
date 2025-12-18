@@ -20,15 +20,15 @@ With thanks to: IOAA Academic Committee
 Blacklist unwanted rtl drivers
 
 ```
-sudo echo blacklist dvb_core > /etc/modprobe.d/blacklist-rtlsdr.conf
-sudo echo blacklist dvb_usb_rtl2832u >> /etc/modprobe.d/blacklist-rtlsdr.conf
-sudo echo blacklist dvb_usb_rtl28xxu >> /etc/modprobe.d/blacklist-rtlsdr.conf
-sudo echo blacklist dvb_usb_v2 >> /etc/modprobe.d/blacklist-rtlsdr.conf
-sudo echo blacklist r820t >> /etc/modprobe.d/blacklist-rtlsdr.conf
-sudo echo blacklist rtl2830 >> /etc/modprobe.d/blacklist-rtlsdr.conf
-sudo echo blacklist rtl2832 >> /etc/modprobe.d/blacklist-rtlsdr.conf
-sudo echo blacklist rtl2832_sdr >> /etc/modprobe.d/blacklist-rtlsdr.conf
-sudo echo blacklist rtl2838 >> /etc/modprobe.d/blacklist-rtlsdr.conf
+# sudo echo blacklist dvb_core > /etc/modprobe.d/blacklist-rtlsdr.conf
+# sudo echo blacklist dvb_usb_rtl2832u >> /etc/modprobe.d/blacklist-rtlsdr.conf
+# sudo echo blacklist dvb_usb_rtl28xxu >> /etc/modprobe.d/blacklist-rtlsdr.conf
+# sudo echo blacklist dvb_usb_v2 >> /etc/modprobe.d/blacklist-rtlsdr.conf
+# sudo echo blacklist r820t >> /etc/modprobe.d/blacklist-rtlsdr.conf
+# sudo echo blacklist rtl2830 >> /etc/modprobe.d/blacklist-rtlsdr.conf
+# sudo echo blacklist rtl2832 >> /etc/modprobe.d/blacklist-rtlsdr.conf
+# sudo echo blacklist rtl2832_sdr >> /etc/modprobe.d/blacklist-rtlsdr.conf
+# sudo echo blacklist rtl2838 >> /etc/modprobe.d/blacklist-rtlsdr.conf
 ```
 
 ```
