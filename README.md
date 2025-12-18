@@ -101,3 +101,6 @@ pip install -r requirements.txt
 - [Group-Summary-Answersheet.pdf](https://ioaa2025.in/wp-content/uploads/2025/09/Group-Summary-Answersheet.pdf)
 - [Group-Solutions.pdf](https://ioaa2025.in/wp-content/uploads/2025/09/Group-Solutions.pdf)
 
+## Bugs
+
+If you find bugs or any issues, please see [here](https://github.com/surhudm/IOAA2025_RadioAntenna/issues) if it is already reported, and if not add a new issue.
