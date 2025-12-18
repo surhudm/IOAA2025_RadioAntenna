@@ -1,0 +1,6 @@
+pandas
+matplotlib
+PyAstronomy
+astropy
+pyrtlsdr
+PySide6
