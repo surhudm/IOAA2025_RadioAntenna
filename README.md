@@ -13,9 +13,9 @@ Group task problem design:
 
 With thanks to: IOAA Academic Committee
 
-# Installation
+## Installation
 
-## System requirements
+### System requirements
 
 Blacklist unwanted rtl drivers
 
@@ -41,7 +41,7 @@ Blacklist unwanted rtl drivers
 # sudo modprobe -r rtl2832_sdr
 ```
 
-### For Ubuntu:
+#### For Ubuntu:
 ```
 # sudo apt-get install librtlsdr-dev
 # sudo apt-get install rtl-sdr
@@ -49,13 +49,13 @@ Blacklist unwanted rtl drivers
 ```
 
 
-### For Fedora:
+#### For Fedora:
 ```
 # sudo dnf install rtl-sdr rtl-sdr-devel
 # sudo dnf install xcb-util-cursor xcb-util-cursor-devel
 ```
 
-## Conda installation
+### Conda installation
 
 ```
 # wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
@@ -74,7 +74,7 @@ Pip install requirements
 pip install -r requirements.txt
 ```
 
-## Normal installation
+### Normal installation
 
 If you already have python>=3.8, then you may be able to just install from requirements.txt below.
 
@@ -90,7 +90,7 @@ pip install -r requirements.txt
 # python ioaa25_gc.py
 ```
 
-# Documentation
+## Documentation
 
 - [Group-Write-Up.pdf](https://ioaa2025.in/wp-content/uploads/2025/09/Gropu-Write-Up.pdf)
 - [Group-Design-Horn-Antenna.pdf](https://ioaa2025.in/wp-content/uploads/2025/09/Group-Design-Horn-Antenna.pdf)
