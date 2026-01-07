@@ -8,8 +8,8 @@ Based on original code by: Ashish Mhaske - IUCAA, Pune
 With guidance from:
     Prof. Avinash Deshpande, RRI, Bengaluru and Prof. Surhud More, IUCAA, Pune
 
-Group task problem design:
-    Prof. Avinash Deshpande, RRI, Bengaluru and Prof. Dharam Vir Lal, NCRA, Pune
+Group task problem design
+    Prof. Avinash Deshpande, RRI, Bengaluru, Prof. Dharam Vir Lal, NCRA-TIFR, Pune, and Prof. Amol Dighe, TIFR, Mumbai 
 
 With thanks to: IOAA Academic Committee
 
